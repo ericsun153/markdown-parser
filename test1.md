@@ -1,4 +1,4 @@
 # Link positions
 
-(https://something.com)[link1]
-[link2](some-thing.html)
+[link1](https://something.com)
+(some-thing.html)[link2]
